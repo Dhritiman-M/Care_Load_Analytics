@@ -187,7 +187,7 @@ Validation output
 ### Clone Repository
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Dhritiman-M/Care_Load_Analytics.git
 cd UAC_Care_Load_Analytics
 ```
 
