@@ -229,6 +229,7 @@ The dashboard enables stakeholders to:
 ---
 
 ## Author
+Name - Dhritiman Modak
 
 Healthcare Analytics Project
 
