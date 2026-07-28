@@ -75,7 +75,7 @@ UAC_Care_Load_Analytics/
 │   ├── preprocessing.py
 │   ├── trend_analysis.py
 │   └── validation.py
-├── main.py
+├── main.py			--------> Entry point of the Project
 ├── README.md
 ├── requirements.txt
 └── .gitignore
@@ -184,24 +184,24 @@ Validation output
 
 ## Installation
 
-### Clone Repository
+- Clone Repository
 
-```bash
-git clone https://github.com/Dhritiman-M/Care_Load_Analytics.git
-cd UAC_Care_Load_Analytics
-```
+	```bash
+	git clone https://github.com/Dhritiman-M/Care_Load_Analytics.git
+	cd UAC_Care_Load_Analytics
+	```
 
-### Install Dependencies
+- Install Dependencies
 
-```bash
-pip install -r requirements.txt
-```
+	```bash
+	pip install -r requirements.txt
+	```
 
-### Launch Dashboard
+- Launch Dashboard
 
-```bash
-streamlit run dashboard/streamlit_app.py
-```
+	```bash
+	streamlit run dashboard/streamlit_app.py
+	```
 
 ---
 
@@ -227,9 +227,15 @@ The dashboard enables stakeholders to:
 * Resource optimization models
 
 ---
+For inquiries or assistance, reach out to the project contributors:
 
-## Author
+- Author : Dhritiman Modak
 
-Healthcare Analytics Project
+- GitHub: [github.com/Dhritiman-M](https://github.com/Dhritiman-M)
+- Email: dhritimanmodak72@gmail.com
 
-System Capacity & Care Load Analytics for Unaccompanied Children
+- Project By Unified Mentor
+
+---
+
+## ⭐ If you found this project useful, consider giving it a star!
